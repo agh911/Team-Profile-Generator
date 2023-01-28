@@ -72,7 +72,7 @@
 
   ## Questions
 
-  If you have any questions about this repository, open an issue or contact me directly at [andreeaghenea98@yahoo.com](mailto:andreeaghenea98@yahoo.com). You can also reach me on GitHub and find more of my work at [agh911](https://github.com/agh911).
+  If you have any questions about this repository, open an issue. You can also reach me on GitHub and find more of my work at [agh911](https://github.com/agh911).
 
   #### [Back to top](#team-profile-generator)
   ---
