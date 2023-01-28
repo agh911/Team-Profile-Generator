@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/agh911/Team-Profile-Generator#readme",
   "dependencies": {
-    "inquirer": "^8.2.5"
+    "inquirer": "^8.2.5",
+    "jest": "^29.4.1"
   }
 }
