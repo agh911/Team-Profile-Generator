@@ -1,0 +1,26 @@
+
+body {
+    background-color: #0f1218;
+}
+
+.jumbotron {
+    background-color: #191f28 !important;
+}
+
+h1 {
+    color: #fffffe;
+}
+
+.card {
+    margin: 30px;
+    background: #191f28;
+    color: #fffffe;
+}
+
+.card-body > ul > li {
+    background: #2b3340;
+}
+
+.list-group-item {
+    border: 1px solid rgba(255,255,255,.125);
+}
